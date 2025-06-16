@@ -1,1 +1,1 @@
-# javascript-temelleri
+# Javascript Tekrarı
